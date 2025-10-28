@@ -1,0 +1,16 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# Visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+
+# Model Saving / Loading
+joblib==1.4.2
+pickle-mixin==1.0.2
+
+# (Optional) For Notebooks
+jupyter==1.1.0
+notebook==7.2.1
